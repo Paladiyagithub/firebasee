@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "672630100820",
+    "project_id": "shrey-5dac6",
+    "storage_bucket": "shrey-5dac6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672630100820:android:a8f3cf38b3fdfb82e56ec1",
+        "android_client_info": {
+          "package_name": "com.example.firebasee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672630100820-4grv3j17j5bmau1nq2jqvn25mrqlpofr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGE1si_N2-vAjp-TQRaA-EE81PoZASAw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672630100820-4grv3j17j5bmau1nq2jqvn25mrqlpofr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
